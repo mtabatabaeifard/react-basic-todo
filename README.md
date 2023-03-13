@@ -1,6 +1,6 @@
 # React Basic Todo
 In the project directory, you can run:
-
+To run this project in development mode,use `npm start`.
 ### `npm start`
 
 Runs the app in the development mode.\
